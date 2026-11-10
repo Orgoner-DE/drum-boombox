@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bb_shell">#FF2B2D31</color>
+    <color name="bb_panel">#FF1C1D20</color>
+    <color name="bb_pad_off">#FF3A3C41</color>
+    <color name="bb_pad_text">#FFC9CCD1</color>
+    <color name="bb_pad_hit">#FFE8402A</color>
+    <color name="bb_disp_bg">#FF0E1A12</color>
+    <color name="bb_disp_text">#FF7CFFA0</color>
+    <color name="bb_bank">#FFF2A23A</color>
+    <color name="bb_step">#FFF7F7F2</color>
+</resources>

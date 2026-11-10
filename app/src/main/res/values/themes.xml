@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DrumBoombox" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/bb_shell</item>
+        <item name="android:statusBarColor">@color/bb_shell</item>
+        <item name="android:navigationBarColor">@color/bb_shell</item>
+        <item name="android:textColor">@color/bb_pad_text</item>
+        <item name="android:textColorPrimary">@color/bb_pad_text</item>
+        <item name="android:colorAccent">@color/bb_pad_hit</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+</resources>

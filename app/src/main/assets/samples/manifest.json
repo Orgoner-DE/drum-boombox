@@ -1,0 +1,361 @@
+{
+  "version": "0.1.0",
+  "sampleRate": 44100,
+  "license": "CC0-1.0",
+  "kits": [
+    {
+      "id": "street",
+      "label": "Street",
+      "pads": [
+        {
+          "pad": 0,
+          "key": "kick",
+          "label": "Kick",
+          "path": "samples/street/kick.wav",
+          "frames": 28444
+        },
+        {
+          "pad": 1,
+          "key": "snare",
+          "label": "Snare",
+          "path": "samples/street/snare.wav",
+          "frames": 21961
+        },
+        {
+          "pad": 2,
+          "key": "clap",
+          "label": "Clap",
+          "path": "samples/street/clap.wav",
+          "frames": 15434
+        },
+        {
+          "pad": 3,
+          "key": "rim",
+          "label": "Rim",
+          "path": "samples/street/rim.wav",
+          "frames": 7938
+        },
+        {
+          "pad": 4,
+          "key": "hat_c",
+          "label": "HH C",
+          "path": "samples/street/hat_c.wav",
+          "frames": 9878
+        },
+        {
+          "pad": 5,
+          "key": "hat_o",
+          "label": "HH O",
+          "path": "samples/street/hat_o.wav",
+          "frames": 23373
+        },
+        {
+          "pad": 6,
+          "key": "shaker",
+          "label": "Shaker",
+          "path": "samples/street/shaker.wav",
+          "frames": 11025
+        },
+        {
+          "pad": 7,
+          "key": "ride",
+          "label": "Ride",
+          "path": "samples/street/ride.wav",
+          "frames": 43659
+        },
+        {
+          "pad": 8,
+          "key": "tom_lo",
+          "label": "Tom L",
+          "path": "samples/street/tom_lo.wav",
+          "frames": 22270
+        },
+        {
+          "pad": 9,
+          "key": "tom_mid",
+          "label": "Tom M",
+          "path": "samples/street/tom_mid.wav",
+          "frames": 22270
+        },
+        {
+          "pad": 10,
+          "key": "tom_hi",
+          "label": "Tom H",
+          "path": "samples/street/tom_hi.wav",
+          "frames": 22270
+        },
+        {
+          "pad": 11,
+          "key": "cowbell",
+          "label": "Glocke",
+          "path": "samples/street/cowbell.wav",
+          "frames": 17640
+        },
+        {
+          "pad": 12,
+          "key": "perc1",
+          "label": "Perc 1",
+          "path": "samples/street/perc1.wav",
+          "frames": 9702
+        },
+        {
+          "pad": 13,
+          "key": "perc2",
+          "label": "Perc 2",
+          "path": "samples/street/perc2.wav",
+          "frames": 7938
+        },
+        {
+          "pad": 14,
+          "key": "perc3",
+          "label": "Perc 3",
+          "path": "samples/street/perc3.wav",
+          "frames": 12348
+        },
+        {
+          "pad": 15,
+          "key": "crash",
+          "label": "Crash",
+          "path": "samples/street/crash.wav",
+          "frames": 51597
+        }
+      ]
+    },
+    {
+      "id": "steel",
+      "label": "Steel",
+      "pads": [
+        {
+          "pad": 0,
+          "key": "kick",
+          "label": "Kick",
+          "path": "samples/steel/kick.wav",
+          "frames": 23593
+        },
+        {
+          "pad": 1,
+          "key": "snare",
+          "label": "Snare",
+          "path": "samples/steel/snare.wav",
+          "frames": 18257
+        },
+        {
+          "pad": 2,
+          "key": "clap",
+          "label": "Clap",
+          "path": "samples/steel/clap.wav",
+          "frames": 15434
+        },
+        {
+          "pad": 3,
+          "key": "rim",
+          "label": "Rim",
+          "path": "samples/steel/rim.wav",
+          "frames": 7938
+        },
+        {
+          "pad": 4,
+          "key": "hat_c",
+          "label": "HH C",
+          "path": "samples/steel/hat_c.wav",
+          "frames": 8467
+        },
+        {
+          "pad": 5,
+          "key": "hat_o",
+          "label": "HH O",
+          "path": "samples/steel/hat_o.wav",
+          "frames": 18963
+        },
+        {
+          "pad": 6,
+          "key": "shaker",
+          "label": "Shaker",
+          "path": "samples/steel/shaker.wav",
+          "frames": 11025
+        },
+        {
+          "pad": 7,
+          "key": "ride",
+          "label": "Ride",
+          "path": "samples/steel/ride.wav",
+          "frames": 33957
+        },
+        {
+          "pad": 8,
+          "key": "tom_lo",
+          "label": "Tom L",
+          "path": "samples/steel/tom_lo.wav",
+          "frames": 18301
+        },
+        {
+          "pad": 9,
+          "key": "tom_mid",
+          "label": "Tom M",
+          "path": "samples/steel/tom_mid.wav",
+          "frames": 18301
+        },
+        {
+          "pad": 10,
+          "key": "tom_hi",
+          "label": "Tom H",
+          "path": "samples/steel/tom_hi.wav",
+          "frames": 18301
+        },
+        {
+          "pad": 11,
+          "key": "cowbell",
+          "label": "Glocke",
+          "path": "samples/steel/cowbell.wav",
+          "frames": 17640
+        },
+        {
+          "pad": 12,
+          "key": "perc1",
+          "label": "Perc 1",
+          "path": "samples/steel/perc1.wav",
+          "frames": 9702
+        },
+        {
+          "pad": 13,
+          "key": "perc2",
+          "label": "Perc 2",
+          "path": "samples/steel/perc2.wav",
+          "frames": 7938
+        },
+        {
+          "pad": 14,
+          "key": "perc3",
+          "label": "Perc 3",
+          "path": "samples/steel/perc3.wav",
+          "frames": 12348
+        },
+        {
+          "pad": 15,
+          "key": "crash",
+          "label": "Crash",
+          "path": "samples/steel/crash.wav",
+          "frames": 40131
+        }
+      ]
+    },
+    {
+      "id": "room",
+      "label": "Room",
+      "pads": [
+        {
+          "pad": 0,
+          "key": "kick",
+          "label": "Kick",
+          "path": "samples/room/kick.wav",
+          "frames": 36933
+        },
+        {
+          "pad": 1,
+          "key": "snare",
+          "label": "Snare",
+          "path": "samples/room/snare.wav",
+          "frames": 28444
+        },
+        {
+          "pad": 2,
+          "key": "clap",
+          "label": "Clap",
+          "path": "samples/room/clap.wav",
+          "frames": 15434
+        },
+        {
+          "pad": 3,
+          "key": "rim",
+          "label": "Rim",
+          "path": "samples/room/rim.wav",
+          "frames": 7938
+        },
+        {
+          "pad": 4,
+          "key": "hat_c",
+          "label": "HH C",
+          "path": "samples/room/hat_c.wav",
+          "frames": 12348
+        },
+        {
+          "pad": 5,
+          "key": "hat_o",
+          "label": "HH O",
+          "path": "samples/room/hat_o.wav",
+          "frames": 31090
+        },
+        {
+          "pad": 6,
+          "key": "shaker",
+          "label": "Shaker",
+          "path": "samples/room/shaker.wav",
+          "frames": 11025
+        },
+        {
+          "pad": 7,
+          "key": "ride",
+          "label": "Ride",
+          "path": "samples/room/ride.wav",
+          "frames": 60637
+        },
+        {
+          "pad": 8,
+          "key": "tom_lo",
+          "label": "Tom L",
+          "path": "samples/room/tom_lo.wav",
+          "frames": 29216
+        },
+        {
+          "pad": 9,
+          "key": "tom_mid",
+          "label": "Tom M",
+          "path": "samples/room/tom_mid.wav",
+          "frames": 29216
+        },
+        {
+          "pad": 10,
+          "key": "tom_hi",
+          "label": "Tom H",
+          "path": "samples/room/tom_hi.wav",
+          "frames": 29216
+        },
+        {
+          "pad": 11,
+          "key": "cowbell",
+          "label": "Glocke",
+          "path": "samples/room/cowbell.wav",
+          "frames": 17640
+        },
+        {
+          "pad": 12,
+          "key": "perc1",
+          "label": "Perc 1",
+          "path": "samples/room/perc1.wav",
+          "frames": 9702
+        },
+        {
+          "pad": 13,
+          "key": "perc2",
+          "label": "Perc 2",
+          "path": "samples/room/perc2.wav",
+          "frames": 7938
+        },
+        {
+          "pad": 14,
+          "key": "perc3",
+          "label": "Perc 3",
+          "path": "samples/room/perc3.wav",
+          "frames": 12348
+        },
+        {
+          "pad": 15,
+          "key": "crash",
+          "label": "Crash",
+          "path": "samples/room/crash.wav",
+          "frames": 71662
+        }
+      ]
+    }
+  ]
+}

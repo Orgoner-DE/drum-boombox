@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spaze Drum Boombox</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="rec">Rec</string>
+    <string name="notif_channel">Wiedergabe</string>
+    <string name="notif_playing">Pattern läuft</string>
+    <string name="notif_ready">Bereit</string>
+    <string name="midi_help">USB-Controller über OTG anschließen. Viele Telefone brauchen einen Adapter. Ein angeschlossenes Studio-Gerät wird als normaler USB-MIDI-Controller gelesen (Noten und Anschlagdynamik), nicht über ein eigenes Standalone-Profil. Hardware wurde in dieser Version nicht am Gerät geprüft.</string>
+</resources>
