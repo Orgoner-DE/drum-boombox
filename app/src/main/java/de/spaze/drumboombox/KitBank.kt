@@ -36,8 +36,10 @@ object KitCatalog {
         "tom_lo", "tom_mid", "tom_hi", "cowbell",
         "perc1", "perc2", "perc3", "crash"
     )
-    val KIT_IDS = listOf("street", "steel", "room")
-    val KIT_LABELS = listOf("Street", "Steel", "Room")
+    // street/steel/room: synthetisiert; dusty/live/crate: echte CC0-Aufnahmen (Virtuosity Drums, VCSL)
+    val KIT_IDS = listOf("street", "steel", "room", "dusty", "live", "crate")
+    val KIT_LABELS = listOf("Street", "Steel", "Room", "Dusty", "Live", "Crate")
+    val REAL_KIT_IDS = listOf("dusty", "live", "crate")
 
     fun chokeGroupForPad(pad: Int): Int = if (pad == 4 || pad == 5) 1 else 0
 }

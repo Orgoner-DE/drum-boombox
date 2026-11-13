@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "sampleRate": 44100,
   "license": "CC0-1.0",
   "kits": [
@@ -354,6 +354,411 @@
           "label": "Crash",
           "path": "samples/room/crash.wav",
           "frames": 71662
+        }
+      ]
+    },
+    {
+      "id": "dusty",
+      "label": "Dusty",
+      "real": true,
+      "pads": [
+        {
+          "pad": 0,
+          "key": "kick",
+          "label": "Kick",
+          "path": "samples/dusty/kick.wav",
+          "frames": 39690,
+          "source": "Kick Dusty"
+        },
+        {
+          "pad": 1,
+          "key": "snare",
+          "label": "Snare",
+          "path": "samples/dusty/snare.wav",
+          "frames": 35280,
+          "source": "Snare Dusty"
+        },
+        {
+          "pad": 2,
+          "key": "clap",
+          "label": "Clap",
+          "path": "samples/dusty/clap.wav",
+          "frames": 18591,
+          "source": "Clap Crowd"
+        },
+        {
+          "pad": 3,
+          "key": "rim",
+          "label": "Rim",
+          "path": "samples/dusty/rim.wav",
+          "frames": 17597,
+          "source": "Rimclick"
+        },
+        {
+          "pad": 4,
+          "key": "hat_c",
+          "label": "HH C",
+          "path": "samples/dusty/hat_c.wav",
+          "frames": 15434,
+          "source": "Hat Lofi"
+        },
+        {
+          "pad": 5,
+          "key": "hat_o",
+          "label": "HH O",
+          "path": "samples/dusty/hat_o.wav",
+          "frames": 88200,
+          "source": "Hat Open"
+        },
+        {
+          "pad": 6,
+          "key": "shaker",
+          "label": "Shaker",
+          "path": "samples/dusty/shaker.wav",
+          "frames": 17640,
+          "source": "Shaker"
+        },
+        {
+          "pad": 7,
+          "key": "ride",
+          "label": "Ride",
+          "path": "samples/dusty/ride.wav",
+          "frames": 132300,
+          "source": "Ride"
+        },
+        {
+          "pad": 8,
+          "key": "tom_lo",
+          "label": "Tom L",
+          "path": "samples/dusty/tom_lo.wav",
+          "frames": 52920,
+          "source": "Tom Low"
+        },
+        {
+          "pad": 9,
+          "key": "tom_mid",
+          "label": "Tom M",
+          "path": "samples/dusty/tom_mid.wav",
+          "frames": 22050,
+          "source": "Tom Muted"
+        },
+        {
+          "pad": 10,
+          "key": "tom_hi",
+          "label": "Tom H",
+          "path": "samples/dusty/tom_hi.wav",
+          "frames": 44100,
+          "source": "Tom High"
+        },
+        {
+          "pad": 11,
+          "key": "cowbell",
+          "label": "Glocke",
+          "path": "samples/dusty/cowbell.wav",
+          "frames": 17525,
+          "source": "Cowbell"
+        },
+        {
+          "pad": 12,
+          "key": "perc1",
+          "label": "Perc 1",
+          "path": "samples/dusty/perc1.wav",
+          "frames": 35280,
+          "source": "Tambourine"
+        },
+        {
+          "pad": 13,
+          "key": "perc2",
+          "label": "Perc 2",
+          "path": "samples/dusty/perc2.wav",
+          "frames": 154350,
+          "source": "Upright Piano C"
+        },
+        {
+          "pad": 14,
+          "key": "perc3",
+          "label": "Perc 3",
+          "path": "samples/dusty/perc3.wav",
+          "frames": 23088,
+          "source": "Tenor Sax Stab C"
+        },
+        {
+          "pad": 15,
+          "key": "crash",
+          "label": "Crash",
+          "path": "samples/dusty/crash.wav",
+          "frames": 154350,
+          "source": "Crash"
+        }
+      ]
+    },
+    {
+      "id": "live",
+      "label": "Live",
+      "real": true,
+      "pads": [
+        {
+          "pad": 0,
+          "key": "kick",
+          "label": "Kick",
+          "path": "samples/live/kick.wav",
+          "frames": 39690,
+          "source": "Kick Thump"
+        },
+        {
+          "pad": 1,
+          "key": "snare",
+          "label": "Snare",
+          "path": "samples/live/snare.wav",
+          "frames": 34598,
+          "source": "Snare Crack"
+        },
+        {
+          "pad": 2,
+          "key": "clap",
+          "label": "Clap",
+          "path": "samples/live/clap.wav",
+          "frames": 30869,
+          "source": "Clap Crowd 2"
+        },
+        {
+          "pad": 3,
+          "key": "rim",
+          "label": "Rim",
+          "path": "samples/live/rim.wav",
+          "frames": 17597,
+          "source": "Rimclick"
+        },
+        {
+          "pad": 4,
+          "key": "hat_c",
+          "label": "HH C",
+          "path": "samples/live/hat_c.wav",
+          "frames": 15434,
+          "source": "Hat Closed"
+        },
+        {
+          "pad": 5,
+          "key": "hat_o",
+          "label": "HH O",
+          "path": "samples/live/hat_o.wav",
+          "frames": 35280,
+          "source": "Hat Half"
+        },
+        {
+          "pad": 6,
+          "key": "shaker",
+          "label": "Shaker",
+          "path": "samples/live/shaker.wav",
+          "frames": 17640,
+          "source": "Shaker"
+        },
+        {
+          "pad": 7,
+          "key": "ride",
+          "label": "Ride",
+          "path": "samples/live/ride.wav",
+          "frames": 110250,
+          "source": "Ride Bell"
+        },
+        {
+          "pad": 8,
+          "key": "tom_lo",
+          "label": "Tom L",
+          "path": "samples/live/tom_lo.wav",
+          "frames": 52920,
+          "source": "Tom Low"
+        },
+        {
+          "pad": 9,
+          "key": "tom_mid",
+          "label": "Tom M",
+          "path": "samples/live/tom_mid.wav",
+          "frames": 22050,
+          "source": "Tom Muted"
+        },
+        {
+          "pad": 10,
+          "key": "tom_hi",
+          "label": "Tom H",
+          "path": "samples/live/tom_hi.wav",
+          "frames": 44100,
+          "source": "Tom High"
+        },
+        {
+          "pad": 11,
+          "key": "cowbell",
+          "label": "Glocke",
+          "path": "samples/live/cowbell.wav",
+          "frames": 17525,
+          "source": "Cowbell"
+        },
+        {
+          "pad": 12,
+          "key": "perc1",
+          "label": "Perc 1",
+          "path": "samples/live/perc1.wav",
+          "frames": 35280,
+          "source": "Conga"
+        },
+        {
+          "pad": 13,
+          "key": "perc2",
+          "label": "Perc 2",
+          "path": "samples/live/perc2.wav",
+          "frames": 22050,
+          "source": "Bongo"
+        },
+        {
+          "pad": 14,
+          "key": "perc3",
+          "label": "Perc 3",
+          "path": "samples/live/perc3.wav",
+          "frames": 22050,
+          "source": "Snare Ghost"
+        },
+        {
+          "pad": 15,
+          "key": "crash",
+          "label": "Crash",
+          "path": "samples/live/crash.wav",
+          "frames": 132300,
+          "source": "Flat Ride Crash"
+        }
+      ]
+    },
+    {
+      "id": "crate",
+      "label": "Crate",
+      "real": true,
+      "pads": [
+        {
+          "pad": 0,
+          "key": "kick",
+          "label": "Kick",
+          "path": "samples/crate/kick.wav",
+          "frames": 19845,
+          "source": "Kick Tight"
+        },
+        {
+          "pad": 1,
+          "key": "snare",
+          "label": "Snare",
+          "path": "samples/crate/snare.wav",
+          "frames": 39690,
+          "source": "Snare Fat"
+        },
+        {
+          "pad": 2,
+          "key": "clap",
+          "label": "Clap",
+          "path": "samples/crate/clap.wav",
+          "frames": 8552,
+          "source": "Clap Solo"
+        },
+        {
+          "pad": 3,
+          "key": "rim",
+          "label": "Rim",
+          "path": "samples/crate/rim.wav",
+          "frames": 12484,
+          "source": "Claves"
+        },
+        {
+          "pad": 4,
+          "key": "hat_c",
+          "label": "HH C",
+          "path": "samples/crate/hat_c.wav",
+          "frames": 13230,
+          "source": "Hat Closed Soft"
+        },
+        {
+          "pad": 5,
+          "key": "hat_o",
+          "label": "HH O",
+          "path": "samples/crate/hat_o.wav",
+          "frames": 52920,
+          "source": "Hat 3/4"
+        },
+        {
+          "pad": 6,
+          "key": "shaker",
+          "label": "Shaker",
+          "path": "samples/crate/shaker.wav",
+          "frames": 35280,
+          "source": "Tambourine"
+        },
+        {
+          "pad": 7,
+          "key": "ride",
+          "label": "Ride",
+          "path": "samples/crate/ride.wav",
+          "frames": 132300,
+          "source": "Ride"
+        },
+        {
+          "pad": 8,
+          "key": "tom_lo",
+          "label": "Tom L",
+          "path": "samples/crate/tom_lo.wav",
+          "frames": 35280,
+          "source": "Frame Drum Low"
+        },
+        {
+          "pad": 9,
+          "key": "tom_mid",
+          "label": "Tom M",
+          "path": "samples/crate/tom_mid.wav",
+          "frames": 35280,
+          "source": "Conga"
+        },
+        {
+          "pad": 10,
+          "key": "tom_hi",
+          "label": "Tom H",
+          "path": "samples/crate/tom_hi.wav",
+          "frames": 22050,
+          "source": "Bongo"
+        },
+        {
+          "pad": 11,
+          "key": "cowbell",
+          "label": "Glocke",
+          "path": "samples/crate/cowbell.wav",
+          "frames": 17640,
+          "source": "Woodblock"
+        },
+        {
+          "pad": 12,
+          "key": "perc1",
+          "label": "Perc 1",
+          "path": "samples/crate/perc1.wav",
+          "frames": 50072,
+          "source": "Vibraslap"
+        },
+        {
+          "pad": 13,
+          "key": "perc2",
+          "label": "Perc 2",
+          "path": "samples/crate/perc2.wav",
+          "frames": 132300,
+          "source": "Vibes C"
+        },
+        {
+          "pad": 14,
+          "key": "perc3",
+          "label": "Perc 3",
+          "path": "samples/crate/perc3.wav",
+          "frames": 132300,
+          "source": "Grand Piano Low C"
+        },
+        {
+          "pad": 15,
+          "key": "crash",
+          "label": "Crash",
+          "path": "samples/crate/crash.wav",
+          "frames": 154350,
+          "source": "Crash"
         }
       ]
     }
